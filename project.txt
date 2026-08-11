@@ -1,0 +1,13 @@
+Git & GitHub Capstone Project
+
+Purpose:
+This project demonstrates the complete Git and GitHub workflow.
+
+Skills practiced:
+- Git initialization
+- Git commits
+- Branching
+- Pull Requests
+- Issues
+- Code review
+- GitHub Actions
